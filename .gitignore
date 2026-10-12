@@ -42,7 +42,6 @@ install_manifest.txt
 moc_*.cpp
 qrc_*.cpp
 ui_*.h
-/.vscode/
 /ALL_BUILD.dir/
 /Mod/
 /ZERO_CHECK.dir/
@@ -74,3 +73,5 @@ tsupdate_stdout.log
 # pixi environments
 *.egg-info
 .pixi
+config.bat
+node_modules
